@@ -1,6 +1,6 @@
 const btnGenerate = document.querySelector("#btnGenerateId");
 const containerDiv = document.querySelector("#containerId");
-
+let bars = document.querySelectorAll(".bar");
 
 let barsArray = [];
 
